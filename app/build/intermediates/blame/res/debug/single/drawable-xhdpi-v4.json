@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\listitem_feed_pressed.9.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\listitem_feed_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_texture_tile.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_refresh.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_bottom.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_back_holo_light.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ic_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\listitem_feed_bg.9.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\listitem_feed_bg.9.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_right.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\shadow_right.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_overflow.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_left.png",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable-xhdpi\\shadow_left.png"
+    }
+]

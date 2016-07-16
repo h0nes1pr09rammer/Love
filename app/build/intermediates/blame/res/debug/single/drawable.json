@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_bg.xml",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable\\actionbar_bg.xml"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_feed_selector.xml",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable\\listitem_feed_selector.xml"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_drawer_selector.xml",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable\\listitem_drawer_selector.xml"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.xml",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable\\main_bg.xml"
+    },
+    {
+        "merged": "D:\\GIthubWorkspace\\9GAG\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_actionbar.xml",
+        "source": "D:\\GIthubWorkspace\\9GAG\\app\\src\\main\\res\\drawable\\ic_actionbar.xml"
+    }
+]
