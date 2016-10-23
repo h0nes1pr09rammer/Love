@@ -52,5 +52,5 @@ def love_commit(start_date, path, etc_path):
 
 
 if __name__ == '__main__':
-    love_commit(datetime.date(2016, 10, 23), 'E:\Githubworkspace\Love\zero.md', 'etc\love')
+    love_commit(datetime.date(2016, 10, 23), 'E:\Githubworkspace\Love\zero.md', 'E:\Githubworkspace\Loveetc\love')
 
