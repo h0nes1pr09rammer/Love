@@ -5,10 +5,10 @@ import os
 
 
 def modify():
-    file = open('zero.md', 'r')
+    file = open('E:\Githubworkspace\Love\zero.md', 'r')
     flag = int(file.readline()) == 0
     file.close()
-    file = open('zero.md', 'w+')
+    file = open('E:\Githubworkspace\Love\zero.md', 'w+')
     if flag:
         file.write('1')
     else:
