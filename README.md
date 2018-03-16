@@ -1,22 +1,22 @@
-# Love-master
-##出处声明：[https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html)
+
+## 出处声明：[https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html)
 ##最终效果图：
 
 ![love.jpg](http://upload-images.jianshu.io/upload_images/2761819-b8475fb1e47d1630.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-##开发环境：
+## 开发环境：
 Windows
 python3
-##开始：
-######步骤一：
+## 开始：
+###### 步骤一：
 安装python3，下载地址：[www.python.org](http://www.python.org/)
 安装注意事项：注意选中add python to path，不然要手动添加环境变量，安装之后cmd输入python，如下图表示成功：
 
 ![QQ截图20160819140559.jpg](http://upload-images.jianshu.io/upload_images/2761819-6567869606030c83.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-######步骤二：
+###### 步骤二：
 github中新建工程，clone到本地，新建zero.md文件，将https://github.com/ahangchen/green
 ![QQ截图20160819141816.jpg](http://upload-images.jianshu.io/upload_images/2761819-c44874576b641357.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 工程中的文件拷贝到本地目录下。
-######步骤三：
+###### 步骤三：
 修改代码中的路径和时间
 green.py
 ```
@@ -121,7 +121,7 @@ if __name__ == '__main__':
     love_commit(datetime.date(2015, 8, 16), 'D:\GIthubWorkspace\Love-master\zero.md', 'D:\GIthubWorkspace\Love-master\etc\love')
 	第一个参数为开始日期（小绿点表格左上），第二个参数为zero.md所在路劲，第三个为love文件所在路径
 ```
-#####步骤四：
+##### 步骤四：
 cmd进入工程所在目录
 >git add *
 >git commit -m "test"
