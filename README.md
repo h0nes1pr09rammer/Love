@@ -1,6 +1,6 @@
 
 ## 出处声明：[https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html)
-##最终效果图：
+## 最终效果图：
 
 ![love.jpg](http://upload-images.jianshu.io/upload_images/2761819-b8475fb1e47d1630.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 开发环境：
